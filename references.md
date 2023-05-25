@@ -2,4 +2,4 @@
 
 * octocat 1 😈
 
-* testing and making a merge conflict // this is new on the main branch but not in my-resume branch
+* testing and making a merge conflict // this is the final line I want in the main branch
